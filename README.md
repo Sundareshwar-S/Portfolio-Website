@@ -13,8 +13,6 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 Hi, I'm **Sundareshwar**, a passionate Computer Science and Engineering (CSE) student specializing in **Artificial Intelligence and Machine Learning (AIML)** at **Jain Deemed to be University**. I am currently exploring Machine Learning, Game Development, and Web Development.
 
 ---
-# 🧑‍💻 Portfolio Website
-
 ## Explanation of My Work
 
 This **Portfolio Website** is a personal project designed to showcase my skills, projects, and experiences as a **Computer Science and Engineering (CSE)** student specializing in **Artificial Intelligence and Machine Learning (AIML)**.
