@@ -26,7 +26,7 @@ This **Portfolio Website** is a personal project designed to showcase my skills,
 - **Learning Experience**: While building this project, I applied and expanded my knowledge of **HTML**, **CSS**, **JavaScript**, and **basic Git/GitHub** workflows.
 
 This project reflects my dedication to continuous learning, especially in the fields of **Machine Learning**, **Game Development**, and **Web Development**. It also serves as a growing portfolio to track my progress and display future projects.
----
+
 
 ## 🚀 Features
 
